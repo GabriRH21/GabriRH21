@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rodríguez Hernández</h1>
-<h3 align="center">I am a final year computer science student</h3>
+<h3 align="center">I am a Computer Enginneer</h3>
 
-- 🌱 I’m currently learning **some languages like python, c# on unity, matlab, etc.**
+- 🌱 I’m currently doing **some privates personal projets.**
 
-- 💬 Ask me about **c++, js.**
+- 💬 Ask me about **Videogames, Algorithms, Web development.**
 
-- 📫 How to reach me **alu0101216829@ull.edu.es**
+- 📫 How to reach me **gabriel.rguez.hdez21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
