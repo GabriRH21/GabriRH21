@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Rodríguez Hernández and I'm a I am a Computer Enginneer.</h2>
+<h2 align="left">Hi 👋! My name is Gabriel Rodríguez Hernández and I'm a Computer Enginneer.</h2>
 
 ###
 
